@@ -1,12 +1,12 @@
 body {
-	color: pink;
+	color: black;
 	text-align:center;
 }
 
 section {
 	font-size:140%;
 	background-color:LightGray;
-	color:pink;
+	color:black;
 	width: 1500px;
 
 }
